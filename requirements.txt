@@ -1,0 +1,3 @@
+streamlit>=1.45,<2
+inference-sdk
+Pillow
